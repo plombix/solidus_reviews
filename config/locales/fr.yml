@@ -12,8 +12,8 @@ fr:
         user: Utilisateur
     models:
       spree/review:
-        one: un commentaire
-        other: "%{count} commentaires"
+        one: un avis
+        other: "%{count} avis"
     errors:
       models:
         spree/review:
@@ -28,39 +28,39 @@ fr:
     approval_status: Statut de l'approbation
     approve: Approuver
     approved_reviews: Approuvé
-    approved_text: Les commentaires authorisés seront affichés dans un délai de un à deux jours ouvrables.
+    approved_text: Les avis authorisés seront affichés dans un délai de un à deux jours ouvrables.
     average_customer_rating: Note moyenne
-    back_reviews: Retour aux commentaires
+    back_reviews: Retour aux avis
     based_upon_review_count:
-      one: basé sur un commentaire
+      one: basé sur un avis
       other: "basé sur %{count} commentaires"
     by: par
     editing_review_for_html: 'Modification du commentaire pour %{product_name}'
-    error_approve_review: Erreur en approuvant le commentaire
+    error_approve_review: Erreur en approuvant l'avis
     error_no_product: Le produit commenté n'existe plus
     feedback: Réaction
-    feedback_review_for: "Commentaire: '%{review}'"
+    feedback_review_for: "Avis: '%{review}'"
     for: pour
     from: de la part de
-    info_approve_review: Commentaire approuvé
-    leave_us_a_review_for: "Veuillez laisser un commentaire et une note pour le produit : %{name}"
-    no_reviews_available: "Il n'y pas encore de commentaire pour ce produit."
+    info_approve_review: Avis approuvé
+    leave_us_a_review_for: "Veuillez laisser un avis et une note pour le produit : %{name}"
+    no_reviews_available: "Il n'y pas encore de avis pour ce produit."
     out_of_5: "sur 5"
     rating: note
-    reviews: Commentaires
+    reviews: Avis
     admin:
       tab:
-        reviews: Commentaires
-        review_management: Commentaires
-    review_successfully_submitted: Votre commentaire a été envoyé avec succès
+        reviews: Avis
+        review_management: Avic
+    review_successfully_submitted: Votre avis a été envoyé avec succès
     spree_reviews:
       feedback_rating: Note de réaction
-      display_unapproved: Afficher les commentaires non approuvés dans les listes
-      include_unapproved: Afficher les commentaires non modérés
-      manage_review_settings: Contrôler l'affichage des commentaires
-      preview_size: Taille des extraits de commentaires
+      display_unapproved: Afficher les avis non approuvés dans les listes
+      include_unapproved: Afficher les avis non modérés
+      manage_review_settings: Contrôler l'affichage des avis
+      preview_size: Taille des extraits d' avis
       require_login: Demander à l'utilisateur d'être connecté
-      review_settings: Paramètres des commentaires
+      review_settings: Paramètres des avis
       show_email: Montrer l'adresse de courriel
       show_verified_purchaser: Montrer l'acheteur vérifié
       track_locale: Détécter la langue de l'utilisateur
@@ -68,13 +68,13 @@ fr:
       one: "1"
       other: "%{count}"
     stars: Étoiles
-    submit_your_review: Envoyer votre commentaire
+    submit_your_review: Envoyer votre avis
     submitted_on: Envoyé le
     unapproved_reviews: Non approuvé
     verified_purchaser: Acheteur vérifié
     voice:
       one: "1 voix"
       other: "%{count} voix"
-    was_this_review_helpful: "Est-ce que ce commentaire vous a été utile ?"
-    write_your_own_review: Écrire un commentaire
+    was_this_review_helpful: "Est-ce que cet avis vous a été utile ?"
+    write_your_own_review: Écrire un avis
     anonymous: Anonyme
