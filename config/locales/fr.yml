@@ -51,7 +51,7 @@ fr:
     admin:
       tab:
         reviews: Avis
-        review_management: Avic
+        review_management: Avis
     review_successfully_submitted: Votre avis a été envoyé avec succès
     spree_reviews:
       feedback_rating: Note de réaction
